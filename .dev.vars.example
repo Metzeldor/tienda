@@ -1,0 +1,5 @@
+# Copia este archivo a .dev.vars (NO se sube a Git) y completa los valores.
+# En producción, define los secretos en Cloudflare Pages > Settings > Variables and Secrets.
+# Fase 0 no necesita ninguno todavía.
+# GEMINI_API_KEY=
+# META_CAPI_TOKEN=
